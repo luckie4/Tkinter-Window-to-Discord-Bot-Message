@@ -1,4 +1,4 @@
-# This script permanantly keeps the other two scripts running.
+# This script permanently keeps the other two scripts running.
 # As there is an exit() function in the the discord bot script, it must be re-run through a terminal window, hence the os import.
 
 import os
